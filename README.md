@@ -1,5 +1,5 @@
 ## Hey 👋
-Seja bem-vindo(a) ao meu GitHub, por aqui uma mente curiosa vivendo o mundo da programação todos os dias. 🚀
+Welcome to my GitHub, here is a curious mind about the world of programming every day. 🚀
 
 <div>
   <a href="https://github.com/gabryelibaldi42">
@@ -14,7 +14,7 @@ Seja bem-vindo(a) ao meu GitHub, por aqui uma mente curiosa vivendo o mundo da p
 
  
  
-  #### Você pode entrar em contato comigo pelos canais abaixo :speech_balloon:
+  #### You can contact me through the channels below :speech_balloon:
  
 <div> 
   <a href = "mailto:gabryelibaldi42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
