@@ -3,9 +3,8 @@
 
 <hr>
 
-<p>🎓 Graduated in Systems Analysis and Development at <a href="https://portal.anhembi.br/?gad_source=1&gclid=CjwKCAiApuCrBhAuEiwA8VJ6JiDseguF4XHpGJ1gHQAwfFJtjnb7r05FtNFFAayWa_aFYNKWyJLu0BoCi0MQAvD_BwE" target="blank_">Anhembi Morumbi</a></p>
-<p>🔠 <a href="https://www.efset.org/cert/KjKPY3">C1 Advanced English Level</a></p>
-<p>🎥 Tech content creator. I share informative content at my <a href="https://www.tiktok.com/@souzaa.dev" target="_blank">Tiktok</a> (120k+), <a href="https://www.instagram.com/souzaa.dev/" target="_blank">Instagram</a> (18k+), <a href="https://www.youtube.com/channel/UCyVjCn2LHImr0ZXL4BpOMug" target="_blank">Youtube</a> (5k+) and <a href="https://www.linkedin.com/in/vitor-souzaa/" target="_blank">LinkedIn</a> (27k+)</p>
+<p>🎓 Graduated in Systems Analysis and Development at <a href="https://www.unisinos.br/" target="blank_">Unisinos</a></p>
+
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,javascript,figma,html,css)](https://skillicons.dev)
